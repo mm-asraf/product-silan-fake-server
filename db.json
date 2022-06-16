@@ -1,0 +1,75 @@
+{
+  "product_data": [
+    {
+      "id": 1,
+      "Order_ID": "OX23345002Z",
+      "Type_Of_Clothing": "Blouse",
+      "Type_Of_Stitch": "Basic",
+      "Delivery_Date": "25-06-2022",
+      "Status": "Incomplete",
+      "image": "https://cdn.pixabay.com/photo/2015/04/13/15/30/saree-720716_960_720.jpg",
+      "deliveryTime": "25 june 2022 | 12:00pm",
+      "measurement": "XXS",
+      "pickupDate": "8 june 2022",
+
+      "comment": "Front Neck [ V Neck ] | Back Neck [ Boat Neck ] | Cut [ Plain Cut ] | Sleeves [ 3/4 th sleeves]"
+    },
+    {
+      "id": 2,
+      "Order_ID": "OX23345002Z",
+      "Type_Of_Clothing": "Blouse",
+      "Type_Of_Stitch": "Basic",
+      "Delivery_Date": "25-06-2022",
+      "Status": "Incomplete",
+      "image": "https://cdn.pixabay.com/photo/2014/06/05/14/38/saree-362755_960_720.jpg",
+      "deliveryTime": "25 june 2022 | 12:00pm",
+      "measurement": "XXS",
+      "pickupDate": "8 june 2022",
+
+      "comment": "Front Neck [ V Neck ] | Back Neck [ Boat Neck ] | Cut [ Plain Cut ] | Sleeves [ 3/4 th sleeves]"
+    },
+    {
+      "id": 3,
+      "Order_ID": "OX23345002Z",
+      "Type_Of_Clothing": "Blouse",
+      "Type_Of_Stitch": "Basic",
+      "Delivery_Date": "25-06-2022",
+      "Status": "Incomplete",
+      "image": "https://cdn.pixabay.com/photo/2015/04/13/15/30/saree-720716_960_720.jpg",
+      "deliveryTime": "25 june 2022 | 12:00pm",
+      "measurement": "XXS",
+      "pickupDate": "8 june 2022",
+
+      "comment": "Front Neck [ V Neck ] | Back Neck [ Boat Neck ] | Cut [ Plain Cut ] | Sleeves [ 3/4 th sleeves]"
+    },
+    {
+      "id": 4,
+      "Order_ID": "OX23345002Z",
+      "Type_Of_Clothing": "Blouse",
+      "Type_Of_Stitch": "Basic",
+      "Delivery_Date": "25-06-2022",
+      "Status": "Incomplete",
+      "image": "https://cdn.pixabay.com/photo/2014/06/05/14/38/saree-362755_960_720.jpg",
+      "deliveryTime": "25 june 2022 | 12:00pm",
+      "measurement": "XXS",
+      "pickupDate": "8 june 2022",
+
+      "comment": "Front Neck [ V Neck ] | Back Neck [ Boat Neck ] | Cut [ Plain Cut ] | Sleeves [ 3/4 th sleeves]"
+    },
+
+    {
+      "id": 1,
+      "Order_ID": "OX23345002Z",
+      "Type_Of_Clothing": "Blouse",
+      "Type_Of_Stitch": "Basic",
+      "Delivery_Date": "25-06-2022",
+      "Status": "Incomplete",
+      "image": "https://cdn.pixabay.com/photo/2015/04/13/15/30/saree-720716_960_720.jpg",
+      "deliveryTime": "25 june 2022 | 12:00pm",
+      "measurement": "XXS",
+      "pickupDate": "8 june 2022",
+
+      "comment": "Front Neck [ V Neck ] | Back Neck [ Boat Neck ] | Cut [ Plain Cut ] | Sleeves [ 3/4 th sleeves]"
+    }
+  ]
+}
